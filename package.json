@@ -1,0 +1,8 @@
+{
+  "name": "scale-test",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "2.1.1",
+    "node-hid": "0.3.1"
+  }
+}
